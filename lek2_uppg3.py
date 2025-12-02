@@ -1,3 +1,4 @@
+#klar
 lista_filer = ["payload.exe", "notes.txt", "malware.zip", "readme.md"]
 
 lista_filer.append("keylogger.py")

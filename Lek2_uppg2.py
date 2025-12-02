@@ -1,3 +1,4 @@
+#klar
 test_tuple = ("SSH Login", "Port Scan", "File Upload", "SQL Injection", "PrivilegeEscalation", "Data Exfiltration")
 
 tre_första = test_tuple[:3]

@@ -1,3 +1,4 @@
+#Klar
 namn =" aNna kaRlSsOn "
 
 namn1 = namn.strip()
